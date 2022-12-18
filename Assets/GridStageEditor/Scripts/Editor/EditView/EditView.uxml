@@ -1,0 +1,14 @@
+<UXML xmlns="UnityEngine.UIElements">
+    <Style src="EditView.uss" />
+    <VisualElement name="edit-view-content">
+        <VisualElement class="row-container edge" />
+        <VisualElement class="horizontal">
+            <VisualElement class="col-container edge" />
+            <VisualElement name="grid-container">
+                <VisualElement name="grid-content" />
+            </VisualElement>
+            <VisualElement class="col-container edge" />
+        </VisualElement>
+        <VisualElement class="row-container edge" />
+    </VisualElement>
+</UXML>

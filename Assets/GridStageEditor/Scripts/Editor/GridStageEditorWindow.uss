@@ -1,0 +1,24 @@
+* {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    flex-direction: row;
+}
+
+#list-view-container {
+    width: 60px;
+    border-right-width: 1px;
+    border-right-color: gray;
+}
+
+#right-container {
+    flex-direction: column;
+}
+
+#tool-view-container {
+    height: 60px;
+}

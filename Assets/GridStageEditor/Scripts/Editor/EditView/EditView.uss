@@ -1,0 +1,49 @@
+#edit-view-content {
+    background-color: #555;
+}
+
+#grid-container {
+    width: 80%;
+}
+
+#grid-content {
+    margin: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.row-container {
+    width: 80%;
+    height: 10%;
+    margin: auto;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.col-container {
+    width: 10%;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.row-container Button {
+    width: 10%;
+    height: 50%;
+    margin: auto 4px;
+}
+
+.col-container Button {
+    width: 50%;
+    height: 10%;
+    margin: 4px auto;
+}
+
+.horizontal {
+    height: 80%;
+    flex-direction: row;
+}
+
+.edge Button {
+    font-size: 24px;
+    -unity-text-align: middle-center;
+}

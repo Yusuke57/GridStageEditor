@@ -1,0 +1,6 @@
+<UXML xmlns="UnityEngine.UIElements">
+    <Style src="ToolItem.uss" />
+    <Button>
+        <Image />
+    </Button>
+</UXML>

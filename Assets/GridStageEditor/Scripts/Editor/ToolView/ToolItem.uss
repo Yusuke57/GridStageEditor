@@ -1,0 +1,13 @@
+Button {
+    margin: 0;
+    padding: 0;
+}
+
+Image {
+    padding: 6px;
+}
+
+.selected {
+    border-color: #fc0;
+    border-width: 4px;
+}

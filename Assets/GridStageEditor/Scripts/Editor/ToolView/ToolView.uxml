@@ -1,0 +1,4 @@
+<UXML xmlns="UnityEngine.UIElements">
+    <Style src="ToolView.uss" />
+    <VisualElement name="tool-item-container" />
+</UXML>

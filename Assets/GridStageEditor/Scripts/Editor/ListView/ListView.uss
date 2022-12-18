@@ -1,0 +1,5 @@
+Label {
+    border-bottom-width: 1px;
+    border-bottom-color: #555;
+    -unity-text-align: middle-center;
+}

@@ -1,0 +1,10 @@
+<UXML xmlns="UnityEngine.UIElements">
+    <Style src="GridStageEditorWindow.uss" />
+    <VisualElement name="container">
+        <VisualElement name="list-view-container" />
+        <VisualElement name="right-container">
+            <VisualElement name="tool-view-container" />
+            <VisualElement name="edit-view-container" />
+        </VisualElement>
+    </VisualElement>
+</UXML>
