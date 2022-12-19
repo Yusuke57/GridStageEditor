@@ -11,3 +11,7 @@ Unityのツールバーから `Window > GridStageEditorWindow` で開けます�
 - 上部のツールビューで種類を選択した上で、各マスのボタンをクリックすることで、マスを編集できます
 - 「+」「-」ボタンで行や列を追加/削除できます
 - ステージデータは `StageDataHolder` というScriptableObjectで管理しており、GridStageEditorWindowでの変更が反映されます
+
+# 解説
+こちらの記事で軽く解説しています。
+https://zenn.dev/yuji_ap/articles/c18cde5449b886
